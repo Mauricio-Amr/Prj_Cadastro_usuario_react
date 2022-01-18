@@ -2,6 +2,14 @@ import './Nav.css'
 import React from 'react'
 
 export default props =>
-<nav className="menu-area">
-    Navegação
-</nav>
+    <aside className="menu-area">
+        <nav className="menu">
+            {/* refatorar */}
+            <a href='#/'>
+                <i className='fa fa-home'></i> Inicio
+            </a>
+            <a href='#users'>
+                <i className="fa fa-users"></i> Usuario
+            </a>
+        </nav>
+    </aside>

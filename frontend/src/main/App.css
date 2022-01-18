@@ -14,7 +14,7 @@
 
 *{
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: '', sans-serif;
 
 }
 
@@ -43,7 +43,7 @@ header.header{
 }
 
 aside.menu-area{
-    grid-area: aside;
+    grid-area: menu;
 }
 
 main.content{
