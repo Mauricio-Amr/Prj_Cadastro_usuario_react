@@ -1,11 +1,14 @@
 {
-    "user":[{
-        "id":1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@teste.com.br"
-    },{
-        "id":2,
-        "name": "Maria Julia da silva",
-        "email": "mjds@teste2.com.br" 
-    }]
+  "user": [
+    {
+      "id": 2,
+      "name": "Maria Julia da silva",
+      "email": "mjds@teste2.com.br"
+    },
+    {
+      "nome": "",
+      "email": "",
+      "id": 3
+    }
+  ]
 }
